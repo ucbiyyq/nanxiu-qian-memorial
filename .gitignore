@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# data files
+/data/*
+!/data/in/README.md
+!/data/in/zotero/README.md
+!/data/out/README.md
+!/data/temp/README.md

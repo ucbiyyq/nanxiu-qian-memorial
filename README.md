@@ -1,0 +1,1 @@
+Project for the publlications data used for the [Nanxiu Qian Memorial](https://www.nanxiu-qian-memorial.com/) website. Various analysis and scripts to create upload templates.
