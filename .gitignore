@@ -39,8 +39,10 @@ vignettes/*.pdf
 .Renviron
 
 # data files
-/data/*
-!/data/in/README.md
-!/data/in/zotero/README.md
-!/data/out/README.md
-!/data/temp/README.md
+!data/in/README.md
+data/in/zotero/*
+!data/in/zotero/README.md
+data/out/*
+!data/out/README.md
+data/temp/*
+!data/temp/README.md
